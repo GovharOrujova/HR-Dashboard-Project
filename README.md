@@ -45,9 +45,9 @@ The dashboard provides insights into employee distribution, gender ratio, servic
 
 ---
 
-## 👤 About Me
-I am *[Your Name]*, a Data Analyst / BI Developer.  
-- Interests: Data Visualization, Business Intelligence, HR Analytics  
-- Contact: [your.email@example.com]  
+## About Me
+- 🌐 [https://www.linkedin.com/in/govhar-orujova-64333b369/]  
+- 🐙 [https://github.com/GovharOrujova]  
+- ✉ [govharorucova@outlook.com]  
 
 ---
